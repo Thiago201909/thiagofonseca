@@ -61,11 +61,4 @@ Converte a idade do cachorro em anos humanos usando cálculo baseado em logaritm
 
 ---
 
-## 🌐 Contatos
-
-- [LinkedIn](https://linkedin.com/in/seunome) *(se tiver)*
-- [GitHub](https://github.com/seuusuario)
-
----
-
-> *Este portfólio está em constante atualização à medida que novos aprendizados e projetos são concluídos!*
+--- *Este portfólio está em constante atualização à medida que novos aprendizados e projetos são concluídos!*
