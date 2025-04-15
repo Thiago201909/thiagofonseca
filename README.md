@@ -1,64 +1,49 @@
 # 👨‍💻 Thiago Fonseca Azeredo
 
-🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Python Júnior  
-📍 São Gonçalo, RJ – Brasil  
+ Thiago Fonseca Azeredo
+
+🎓 **Estudante de Engenharia de Software**  
+📍 São Gonçalo, RJ  
 📧 thiagofonseca1921@gmail.com  
 📞 (21) 99790-5513  
 
 ---
 
-## 🚀 Sobre Mim
+## 💻 Sobre Mim
 
-Sou estudante de Engenharia de Software com conhecimentos práticos em Python, análise de dados e fundamentos de TI. Tenho experiência com projetos pessoais voltados para resolver problemas reais, além de interesse crescente em Inteligência Artificial e visualização de dados com Power BI.
-
----
-
-## 🧠 Projetos em Python
-
-### 🎯 Advinhar o Número
-Jogo onde o usuário tenta adivinhar um número aleatório. Contém sistema de dicas e controle de tentativas.
-
-### 🧮 Calculadora Simples
-Realiza operações básicas (+, -, *, /) entre dois números. Loop contínuo até o comando "sair".
-
-### 🧾 Informações Biográficas
-Coleta e valida informações pessoais como nome, endereço e objetivo, com verificação de caracteres e tamanho mínimo.
-
-### 🔐 Gerador de Senhas
-Recebe uma senha base e gera 3 variações mais seguras, incluindo caracteres especiais, números e letras maiúsculas embaralhadas.
-
-### ➕ Par ou Ímpar
-Jogo simples que informa se o número inserido é par ou ímpar, com validação de entrada e limite entre 1 e 1000.
-
-### ✊ Pedra, Papel ou Tesoura
-Implementação do clássico jogo contra o computador com lógica de decisão, loop contínuo e opção de encerrar.
-
-### 🐶 Idade Canina
-Converte a idade do cachorro em anos humanos usando cálculo baseado em logaritmo, aceitando anos com frações (meses).
+Sou estudante de Engenharia de Software com conhecimentos práticos em Python, análise de dados e fundamentos de TI. Gosto de aprender por meio de projetos pessoais que resolvam problemas reais e me ajudem a evoluir tecnicamente. Tenho facilidade para trabalhar em equipe, boa comunicação e muita vontade de crescer na área de tecnologia.
 
 ---
 
-## 🧰 Tecnologias
+## 🚀 Objetivo
+
+Atuar no desenvolvimento de software ou suporte técnico, aplicando habilidades em programação, lógica computacional e análise de dados.
+
+---
+
+## 🧠 Habilidades Técnicas
 
 - Python (básico/intermediário)
 - Programação Orientada a Objetos
 - Power BI
-- Git & GitHub
-- VSCode / PyCharm
+- Visual Studio Code, PyCharm
 - VirtualBox
-- LGPD e Segurança da Informação (noções)
+- Noções de LGPD e Segurança da Informação
 
 ---
 
-## 📜 Certificados Recentes
+## 📂 Projetos em Destaque
 
-- Linguagem Python – Básico (18h)
-- Desenvolvimento OOP com Python (10h)
-- Interface Gráfica com Python (10h)
-- Introdução à POO (5h)
-- Power BI – Introdução + Acelerado (13h)
-- Imersão em IA na Prática – EmpowerData (8h)
+- **Cadastro Automático de Produtos**  
+  Automação com PyAutoGUI e Pandas para preencher formulários na web com dados de produtos a partir de um arquivo `.csv`.
 
----
+- **Análise de Cancelamento de Clientes**  
+  Estudo com Pandas e Plotly para identificar padrões de cancelamento e sugerir ações estratégicas com base nos dados.
+
+- **Classificação de Score de Crédito com IA**  
+  Aplicação de modelos de machine learning (Random Forest e KNN) para prever scores de crédito com base em perfil de clientes.
+
+- **Sistema de Notas dos Alunos**  
+  Cadastro de estudantes, registro de notas, cálculo de médias e exibição de boletins personalizados.
 
 --- *Este portfólio está em constante atualização à medida que novos aprendizados e projetos são concluídos!*
